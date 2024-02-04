@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width ="500" src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif">
 
-- 👋 Hello World! I'm Karthik, a passionate Data Scientist with a knack for turning raw data into meaningful insights. My journey in the world of data began 3 years ago, and since then, I've been on a quest to unravel the stories hidden in the numbers.
+- 👋 Hello World! I'm Karthik, a passionate **Data Scientist** with a knack for turning raw data into meaningful insights. My journey in the world of data began **3 years** ago, and since then, I've been on a quest to unravel the stories hidden in the numbers.
 - 🔍 As a data enthusiast, I thrive on the challenges of transforming complex datasets into actionable solutions. My expertise lies in Machine Learning, Data Analysis, Data Visualization(PowerBI, Tableau), SQL,, where I leverage cutting-edge techniques to derive valuable conclusions.
 - 💻 In the digital realm, I enjoy coding in Python and R experimenting with algorithms, and building predictive models that stand the test of real-world scenarios. You'll often find me immersed in Jupyter notebooks, crafting Python scripts, and exploring the latest advancements in the data science landscape.
 - 🚀 Beyond the code, I am an advocate for continuous learning and knowledge sharing. I actively contribute to the data science community through blog posts, tutorials, and open-source projects. I believe in the power of collaboration and strive to make a positive impact by fostering a culture of learning and innovation.
