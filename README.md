@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhanukart?tab=repositories](https://github.com/bhanukart?tab=repositories)
 
-- 📫 How to reach me **bhanutejkarthik@gmail.com**
+- 📫 How to reach me **karthik.bhanuteja@yahoo.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/188ZaXGy5ixq3n2EYsYBgFEMWZJ57EBU0/view](https://drive.google.com/file/d/188ZaXGy5ixq3n2EYsYBgFEMWZJ57EBU0/view)
 
