@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhanuteja Karthik</h1>
 <h3 align="center">A passionate Data Scientist / ML Engineer from India</h3>
 
-<img align="right" alt="coding" width ="500" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theaidream.com%2Ftheaidream%2Fcategories%2Fdata-science&psig=AOvVaw3NExTRKze4ZpoASZ2m5hpl&ust=1707117156565000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDn2Y-RkYQDFQAAAAAdAAAAABAF"
+<img align="right" alt="coding" width ="500" src="[![git image](https://github.com/bhanukart/Flight-Fare-Predictor/assets/21053943/9c07f162-5a11-4511-8d3d-edfa7647c6ba)](https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif)"
 - 👨‍💻 All of my projects are available at [https://github.com/bhanukart?tab=repositories](https://github.com/bhanukart?tab=repositories)
 
 - 📫 How to reach me **bhanutejkarthik@gmail.com**
