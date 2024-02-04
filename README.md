@@ -1,19 +1,28 @@
 <h1 align="center">Hi 👋, I'm Bhanuteja Karthik</h1>
-<h3 align="center">A passionate Data Scientist/ML Engineer from India</h3>
+<h3 align="center">A passionate Data Scientist/ML Engineer from Bengaluru, Karnataka</h3>
 
 <img align="right" alt="coding" width ="500" src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif">
+
+- 👋 Hello World! I'm Karthik, a passionate Data Scientist with a knack for turning raw data into meaningful insights. My journey in the world of data began 3 years ago, and since then, I've been on a quest to unravel the stories hidden in the numbers.
+- 🔍 As a data enthusiast, I thrive on the challenges of transforming complex datasets into actionable solutions. My expertise lies in Machine Learning, Data Analysis, Data Visualization(PowerBI, Tableau), SQL,, where I leverage cutting-edge techniques to derive valuable conclusions.
+- 💻 In the digital realm, I enjoy coding in [your preferred programming languages], experimenting with algorithms, and building predictive models that stand the test of real-world scenarios. You'll often find me immersed in Jupyter notebooks, crafting Python scripts, and exploring the latest advancements in the data science landscape.
+- 🚀 Beyond the code, I am an advocate for continuous learning and knowledge sharing. I actively contribute to the data science community through blog posts, tutorials, and open-source projects. I believe in the power of collaboration and strive to make a positive impact by fostering a culture of learning and innovation.
+- 🌐 Let's connect! Whether it's discussing the intricacies of a machine learning algorithm, exploring new data visualization techniques, or brainstorming ideas for a collaborative project, I'm always up for a data-driven conversation.
+- 📈 Excited about the endless possibilities that data science holds, I'm on a mission to create a data-driven future—one line of code at a time
+
 - 👨‍💻 All of my projects are available at [https://github.com/bhanukart?tab=repositories](https://github.com/bhanukart?tab=repositories)
 
 - 📫 How to reach me **bhanutejkarthik@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/188ZaXGy5ixq3n2EYsYBgFEMWZJ57EBU0/view](https://drive.google.com/file/d/188ZaXGy5ixq3n2EYsYBgFEMWZJ57EBU0/view)
 
-- ⚡ Fun fact **I am funny😎**
+- ⚡ Fun fact **I once wrote a machine learning algorithm to predict the outcome of my favorite TV show's plot twists – turns out, even the data couldn't predict those unexpected cliffhangers!" 📺🤖😎**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://twitter.com/bhanutejakarthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhanutejakarthi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bhanuteja k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhanuteja k" height="30" width="40" /></a>
+<a href="https://kaggle.com/bhanuteja karthik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bhanuteja karthik" height="30" width="40" /></a>
+<a href="https://instagram.com/bhanutejakarthik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhanutejakarthik" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
