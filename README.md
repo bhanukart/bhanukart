@@ -1,4 +1,4 @@
-![logo](https://github.com/bhanukart/bhanukart/blob/main/Banner12.jpg)
+![logo](https://github.com/bhanukart/bhanukart/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Bhanuteja Karthik</h1>
 <h3 align="center">A passionate Data Scientist/ML Engineer from Bengaluru, Karnataka</h3>
 
