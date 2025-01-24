@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **karthik.bhanuteja@yahoo.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1S_wP2N2XVybyZXBZTQ0iTzdU6FFvQExE/view?usp=sharing](https://drive.google.com/file/d/1S_wP2N2XVybyZXBZTQ0iTzdU6FFvQExE/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1S_wP2N2XVybyZXBZTQ0iTzdU6FFvQExE/view?usp=sharing](https://drive.google.com/file/d/1Bk5LRmAbAqzZBw-RfB4UrlAeGdoLnz8V/view?usp=drive_link)
 
 - ⚡ Fun fact **I once wrote a machine learning algorithm to predict the outcome of my favorite TV show's plot twists – turns out, even the data couldn't predict those unexpected cliffhangers!" 📺🤖😎**
 
